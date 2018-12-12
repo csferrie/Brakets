@@ -2,7 +2,7 @@
 
 > Created by [Chris Ferrie](https://csferrie.com)
 
-**2 PLAYERS | AGES 10+ | 15 MINUTES
+**2 PLAYERS | AGES 10+ | 15 MINUTES**
 
 Welcome to ⟨B|raket|S⟩! The object is to close **brakets**, the tools of the quantum mechanic! You’ll need to create these quantum brakets to maximize your probability of winning. But, just like quantum physics, there is no complete certainty of the winner until the **measurement** is made!
 
@@ -16,7 +16,7 @@ No knowledge of quantum mechanics is require to play the game, but you will lear
 
 The instructions are [here](instructions/Brakets.pdf).
 
-I suggest getting the cards printed professionally. All the cards images are in the [images folder](images/). I printed the cards pictured above in Canada using https://printerstudio.ca. However, they also have a worldwide site (https://printerstudio.com). 
+I suggest getting the cards printed professionally. All the cards images are in the [cards folder](cards/). I printed the cards pictured above in Canada using https://printerstudio.ca. However, they also have a worldwide site (https://printerstudio.com). 
 
 You can print your own cards using a desktop printer with [this file](cards/pieces_dot.pdf).
 
