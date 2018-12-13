@@ -6,7 +6,7 @@
 
 Welcome to ⟨B|raket|S⟩! The object is to close **brakets**, the tools of the quantum mechanic! You’ll need to create these quantum brakets to maximize your probability of winning. But, just like quantum physics, there is no complete certainty of the winner until the **measurement** is made!
 
-No knowledge of quantum mechanics is require to play the game, but you will learn the calculus of the quantum as you play. Later in the rules, you’ll find out how your moves line up with the laws of quantum physics.  
+No knowledge of quantum mechanics is required to play the game, but you will learn the calculus of the quantum as you play. Later in the rules, you’ll find out how your moves line up with the laws of quantum physics.  
 
 <img src="images/photo.jpg" width="100%">
 
